@@ -55,6 +55,13 @@ Data Storage
 Form submissions are stored locally in a JSON file (forms.json) within the project's db directory.
 
 
+## front end exe file
+` <your path>\bin\release\net8.0-windows\publish `
+
+## if NuGet json package is not installed
+
+go to the form app in the solution explorer  -> right click -> NuGet package manager -> install Nuget.Json
+
  
 
 ## Running the Server
@@ -66,9 +73,3 @@ Form submissions are stored locally in a JSON file (forms.json) within the proje
 npm run dev
 
 
-## front end exe file
-` <your path>\bin\release\net8.0-windows\publish `
-
-## if NuGet json package is not installed
-
-go to the form app in the solution explorer  -> right click -> NuGet package manager -> install Nuget.Json 

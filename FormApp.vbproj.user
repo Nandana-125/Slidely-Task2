@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\express\myproject2\frontend\FormApp\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CreateSubmissionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InstructionsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchEmailForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSubmissionsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

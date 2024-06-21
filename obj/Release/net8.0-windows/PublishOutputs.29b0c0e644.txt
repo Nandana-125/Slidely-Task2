@@ -1,0 +1,6 @@
+C:\express\myproject2\frontend\FormApp\bin\Release\net8.0-windows\publish\FormApp.exe
+C:\express\myproject2\frontend\FormApp\bin\Release\net8.0-windows\publish\FormApp.dll
+C:\express\myproject2\frontend\FormApp\bin\Release\net8.0-windows\publish\FormApp.deps.json
+C:\express\myproject2\frontend\FormApp\bin\Release\net8.0-windows\publish\FormApp.runtimeconfig.json
+C:\express\myproject2\frontend\FormApp\bin\Release\net8.0-windows\publish\FormApp.pdb
+C:\express\myproject2\frontend\FormApp\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll

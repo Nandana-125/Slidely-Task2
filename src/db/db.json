@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ross",
+    "email": "Ross@gmail.com",
+    "phone": "123456",
+    "githubLink": "dinosaur-hub",
+    "stopwatchTime": "00:00:18.591"
+  },
+  {
+    "name": "Rachel",
+    "email": "Rachel@gmail.com",
+    "phone": "571872938273",
+    "githubLink": "bloomingdales.com",
+    "stopwatchTime": "00:00:00.000"
+  },
+  {
+    "name": "Joey",
+    "email": "jo@gmail.com",
+    "phone": "1839837",
+    "githubLink": "JoeyLovesFood",
+    "stopwatchTime": "00:00:19.578"
+  }
+]
